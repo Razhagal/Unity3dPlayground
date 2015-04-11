@@ -1,4 +1,4 @@
-UnityFastTrack
+Unity3d Playground
 ==============
 
-Little homework exercises
+Repository for personal projects and usefull scripts/snippets
